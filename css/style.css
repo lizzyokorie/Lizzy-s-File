@@ -1,0 +1,31 @@
+body{
+  background-image: url(http://4.bp.blogspot.com/-pZNtCk0FmgY/UCoTypPgz9I/AAAAAAAADtA/rInZgEe8JNQ/s1600/flower_05.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: orange;
+  border-width: 5px;
+  width: 4%;
+}
+h3{
+  color: #fd8c04;
+}
+h4{
+  color: #393e46;
+}
+h5{
+  color: #393e46;
+}
+ul {
+  color: #393e46;
+}
+td{
+  color: #393e46;
+}
+a{
+  color: #fd8c04;
+}
